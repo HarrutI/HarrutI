@@ -2,7 +2,7 @@
 
 I'm a passionate and proactive professional with a strong ability to work collaboratively in teams, seeking opportunities in the tech sector to drive innovative projects forward. Skilled at fostering teamwork and communication, which enhances project outcomes and promotes a positive work environment. Eager to contribute unique insights and energy to help organizations achieve their goals.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismael-el-harrar/)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esmaelhh@live.com) 
 
