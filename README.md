@@ -30,8 +30,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 🗣️ Languages:
-![Spanish](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Spanish-orange?style=for-the-badge)
-![Native](https://img.shields.io/badge/Level-Native-lightgrey?style=for-the-badge)
+![🇪🇸 Spanish Native](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Spanish%20Native-orange?style=for-the-badge)
+![🇬🇧 English B2](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English%20B2-blue?style=for-the-badge)
 
-![English](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-blue?style=for-the-badge)
-![B2](https://img.shields.io/badge/Level-B2-lightgrey?style=for-the-badge)
