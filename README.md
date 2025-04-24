@@ -1,6 +1,13 @@
-## Hi, I'm Ismael
+## Hi, I'm Ismael ✨
 
-I'm a passionate and proactive professional with a strong ability to work collaboratively in teams, seeking opportunities in the tech sector to drive innovative projects forward. Skilled at fostering teamwork and communication, which enhances project outcomes and promotes a positive work environment. Eager to contribute unique insights and energy to help organizations achieve their goals.
+🎓 Higher Technician in Web Application Development.
+🎯 Passionate and proactive professional.
+🤝 Skilled in teamwork and communication.
+🚀 Eager to drive innovative projects in the tech sector.
+🌟 Create a positive, productive work environment.
+💡 Bring fresh ideas and energy to meet goals.
+
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismael-el-harrar/)
@@ -21,3 +28,7 @@ I'm a passionate and proactive professional with a strong ability to work collab
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+# 🗣️ Languages:
+![Spanish – Native](https://img.shields.io/badge/Spanish-Native-orange?style=for-the-badge)
+![English – B2](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
