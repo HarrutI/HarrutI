@@ -1,12 +1,16 @@
 # Hi, I'm Ismael ✨
 
 🎓 Higher Technician in Web Application Development.
-🎯 Passionate and proactive professional.
-🤝 Skilled in teamwork and communication.
-🚀 Eager to drive innovative projects in the tech sector.
-🌟 Create a positive, productive work environment.
-💡 Bring fresh ideas and energy to meet goals.
 
+🎯 Passionate and proactive professional.
+
+🤝 Skilled in teamwork and communication.
+
+🚀 Eager to drive innovative projects in the tech sector.
+
+🌟 Create a positive, productive work environment.
+
+💡 Bring fresh ideas and energy to meet goals.
 
 
 ## 🌐 Socials:
