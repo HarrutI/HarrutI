@@ -1,4 +1,4 @@
-## Hi, I'm Ismael ✨
+# Hi, I'm Ismael ✨
 
 🎓 Higher Technician in Web Application Development.
 🎯 Passionate and proactive professional.
@@ -9,11 +9,11 @@
 
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismael-el-harrar/)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esmaelhh@live.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 🗣️ Languages:
+## 🗣️ Languages:
 ![Spanish Native](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Spanish%20Native-orange?style=for-the-badge)
 ![English B2](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English%20B2-blue?style=for-the-badge)
 
